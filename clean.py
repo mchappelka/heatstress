@@ -1,6 +1,5 @@
 import pandas as pd 
 import os
-import json
 
 cwd = os.getcwd()
 
